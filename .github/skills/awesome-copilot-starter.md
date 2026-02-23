@@ -19,3 +19,14 @@ Use these Awesome Copilot collections first:
   - Keep language/framework rules in `.github/instructions/`.
 - After implementation:
   - Record findings in `README.md` and notebook notes.
+
+## Added local assets
+
+- Skills:
+  - `.github/skills/copilot-sdk/SKILL.md`
+  - `.github/skills/sponsor-finder/SKILL.md`
+- Instructions:
+  - `.github/instructions/agent-skills.instructions.md`
+  - `.github/instructions/context-engineering.instructions.md`
+  - `.github/instructions/copilot-sdk-python.instructions.md`
+  - `.github/instructions/playwright-python.instructions.md`
